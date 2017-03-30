@@ -1,7 +1,9 @@
-##A simple tcp/udp server wrapper library
+A simple tcp/udp server wrapper library
 ===
-#before install this libaray you should
+
+before install this libaray you should
 ---
+
     yum install ev-devel
-#then git clone this and make it 
+then git clone this and make it 
 ---
