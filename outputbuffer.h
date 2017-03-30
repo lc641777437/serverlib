@@ -4,6 +4,7 @@
 
 #include <string.h>
 #include <tr1/memory>
+#include <sys/types.h>
 
 
 class COutputBuffer 
